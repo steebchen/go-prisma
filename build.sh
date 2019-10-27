@@ -1,5 +1,5 @@
-export GO=1.12
-export PRISMA=1.28.3
+export GO=1.13
+export PRISMA=1.34.10
 
 export tag="go_v$GO-prisma_v$PRISMA"
 
